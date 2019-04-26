@@ -1,6 +1,6 @@
 # calculadora_imc
 
-A new Flutter project.
+Segundo exercício do curso de Flutter fazendo aplicativo para calcular IMC.
 
 ## Getting Started
 
